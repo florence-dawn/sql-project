@@ -1,3 +1,0 @@
-# sql-project
-
-simple sql projects...
